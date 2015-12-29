@@ -1,10 +1,10 @@
-São Paulo - State of São Paulo, Brazil
+Awesome São Paulo - State of São Paulo, Brazil [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ================================================================================
-This is information about São Paulo - State of São Paulo, Brazil. Watch this repo to get notified about changes, especially ranking changes.
+This is a list of awesome people and things in São Paulo - State of São Paulo, Brazil. It is inspired by [awesome](https://github.com/sindresorhus/awesome). Currently, it includes the best programmers and projects. Watch this repo to get notified about changes, especially ranking changes.
 
-15 best programmers in São Paulo - State of São Paulo, Brazil
+Top 15 programmers in São Paulo - State of São Paulo, Brazil
 --------------------------------------------------------------------------------
-These are the 15 most influential programmers out of more than 250 programmers in São Paulo - State of São Paulo, Brazil.
+These are the 15 most influential programmers in São Paulo - State of São Paulo, Brazil. The score (in parentheses) is computed by combining projects, followers, and other information.
 
 1. Loiane Groner [@loiane](https://github.com/loiane) (41)
 2. Nando Vieira [@fnando](https://github.com/fnando) (37)
@@ -22,4 +22,16 @@ These are the 15 most influential programmers out of more than 250 programmers i
 14. Paulo Silveira [@peas](https://github.com/peas) (25)
 15. Caio Ribeiro Pereira [@caio-ribeiro-pereira](https://github.com/caio-ribeiro-pereira) (23)
 
-You can find the comprehensive statistics at the page for [São Paulo - State of São Paulo, Brazil](http://programmermap.com/area/sao-paulo-state-of-sao-paulo-brazil) at programmermap.com.
+You can find comprehensive statistics at the page for [São Paulo - State of São Paulo, Brazil](http://programmermap.com/area/sao-paulo-state-of-sao-paulo-brazil) at programmermap.com.
+
+5 most popular projects
+--------------------------------------------------------------------------------
+These are the five most popular projects (by stars) from local developers:
+
+1. [awesome-ios](https://github.com/vsouza/awesome-ios) (5243)
+2. [gitlist](https://github.com/klaussilveira/gitlist) (1982)
+3. [logos](http://svgporn.com/) (1637)
+4. [raty](http://wbotelhos.com/raty) (1439)
+5. [i18n-js](https://github.com/fnando/i18n-js) (1408)
+
+The link is taken from the repository description. If no link is provided there, the repository url is given.
